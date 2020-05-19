@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-user-finder/static/css/main.b906ab75.chunk.css",
+    "main.js": "/github-user-finder/static/js/main.d569a50c.chunk.js",
+    "main.js.map": "/github-user-finder/static/js/main.d569a50c.chunk.js.map",
+    "runtime-main.js": "/github-user-finder/static/js/runtime-main.b85a267c.js",
+    "runtime-main.js.map": "/github-user-finder/static/js/runtime-main.b85a267c.js.map",
+    "static/js/2.d621589d.chunk.js": "/github-user-finder/static/js/2.d621589d.chunk.js",
+    "static/js/2.d621589d.chunk.js.map": "/github-user-finder/static/js/2.d621589d.chunk.js.map",
+    "index.html": "/github-user-finder/index.html",
+    "precache-manifest.21461b5f7ca1677845d2a3cf2f0c2edc.js": "/github-user-finder/precache-manifest.21461b5f7ca1677845d2a3cf2f0c2edc.js",
+    "service-worker.js": "/github-user-finder/service-worker.js",
+    "static/css/main.b906ab75.chunk.css.map": "/github-user-finder/static/css/main.b906ab75.chunk.css.map",
+    "static/js/2.d621589d.chunk.js.LICENSE.txt": "/github-user-finder/static/js/2.d621589d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b85a267c.js",
+    "static/js/2.d621589d.chunk.js",
+    "static/css/main.b906ab75.chunk.css",
+    "static/js/main.d569a50c.chunk.js"
+  ]
+}
